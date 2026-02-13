@@ -1,0 +1,48 @@
+2025-04-25 13:28:47,859 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3Aurn%3Ali%3Aactivity%3A7321400619947225088%2C7321401017143619584%29/comments
+2025-04-25 13:28:49,009 - replier - ERROR - Failed to post reply: 404 - {"message":"java.util.concurrent.ExecutionException: com.linkedin.restli.server.RestLiServiceException [HTTP Status:404]: com.linkedin.restli.client.RestLiResponseException: Response status 404","status":404}
+2025-04-25 13:38:44,161 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn:li:comment:(urn:li:activity:urn:li:activity:7321400619947225088,7321401017143619584)/comments
+2025-04-25 13:38:45,874 - replier - ERROR - Failed to post reply: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-25 13:40:30,269 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn:li:comment:(urn:li:activity:urn:li:activity:7321400619947225088,7321401017143619584)/comments
+2025-04-25 13:40:31,195 - replier - ERROR - Failed to post reply: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-26 10:24:59,907 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn:li:comment:(urn:li:activity:7321488853431734273,7321758596550066176)/comments
+2025-04-26 10:25:01,324 - replier - ERROR - Failed to post reply: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-26 10:32:33,367 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7321488853431734273%2C7321758596550066176%29/comments
+2025-04-26 10:32:34,614 - replier - INFO - replied to comment ID: 7321758596550066176
+2025-04-29 12:37:21,458 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7322877064766722049%2C7322877439720751105%29/comments
+2025-04-29 12:37:23,751 - replier - INFO - replied to comment ID: 7322877439720751105
+2025-04-29 13:05:36,249 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7322877064766722049%2C7322886144625455104%29/comments
+2025-04-29 13:05:37,564 - replier - INFO - replied to comment ID: 7322886144625455104
+2025-04-29 13:07:03,457 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7322877064766722049%2C7322886364117565443%29/comments
+2025-04-29 13:07:06,580 - replier - INFO - replied to comment ID: 7322886364117565443
+2025-04-30 11:36:03,292 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7323225531728936960%2C7323225824025858049%29/comments
+2025-04-30 11:36:04,469 - replier - INFO - replied to comment ID: 7323225824025858049
+2025-04-30 11:39:57,979 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7323225531728936960%2C7323226990025592832%29/comments
+2025-04-30 11:39:59,343 - replier - INFO - replied to comment ID: 7323226990025592832
+2025-04-30 11:42:32,308 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7323225531728936960%2C7323227626066583553%29/comments
+2025-04-30 11:42:33,799 - replier - INFO - replied to comment ID: 7323227626066583553
+2025-04-30 17:00:39,780 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7323305434788900865%2C7323306809081974784%29/comments
+2025-04-30 17:00:40,942 - replier - INFO - replied to comment ID: 7323306809081974784
+2025-04-30 17:00:49,314 - replier - INFO - Posting reply to LinkedIn: https://api.linkedin.com/rest/socialActions/urn%3Ali%3Acomment%3A%28urn%3Ali%3Aactivity%3A7323305434788900865%2C7323306739599106048%29/comments
+2025-04-30 17:00:50,512 - replier - INFO - replied to comment ID: 7323306739599106048
+2025-05-03 15:19:30,423 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/urn:li:activity:7324346895663800321/comments
+2025-05-03 15:19:31,628 - replier - ERROR - Failed to post reply: 401 - {"status":401,"type":"errors/invalid_credentials","title":"Invalid credentials"}
+2025-05-03 15:30:13,266 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324346895663800321/comments
+2025-05-03 15:30:14,316 - replier - ERROR - Failed to post reply: 401 - {"status":401,"type":"errors/invalid_credentials","title":"Invalid credentials"}
+2025-05-03 15:34:56,478 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324346895663800321/comments
+2025-05-03 15:34:56,969 - replier - ERROR - Failed to post reply: 401 - {"status":401,"type":"errors/invalid_credentials","title":"Invalid credentials"}
+2025-05-03 16:44:06,724 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324346895663800321/comments
+2025-05-03 16:44:07,215 - replier - ERROR - Failed to post reply: 401 - {"status":401,"type":"errors/missing_credentials","title":"Missing credentials"}
+2025-05-03 17:40:01,648 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324346895663800321/comments
+2025-05-03 17:40:04,040 - replier - INFO - Replied to comment ID: 7324349222038753280
+2025-05-03 17:50:30,984 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324346895663800321/comments
+2025-05-03 17:50:33,225 - replier - INFO - Replied to comment ID: 7324349222038753280
+2025-05-03 17:57:06,318 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324408456063451136/comments
+2025-05-03 17:57:08,509 - replier - INFO - Replied to comment ID: 7324409031228317696
+2025-05-03 17:57:14,439 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324408456063451136/comments
+2025-05-03 17:57:17,088 - replier - INFO - Replied to comment ID: 7324408894682750977
+2025-05-03 17:59:15,686 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7324408456063451136/comments
+2025-05-03 17:59:17,623 - replier - INFO - Replied to comment ID: 7324409607215316992
+2025-05-06 13:22:36,858 - replier - INFO - Posting reply to Unipile: https://api12.unipile.com:14208/api/v1/posts/7325425404641521665/comments
+2025-05-06 13:22:39,424 - replier - INFO - Replied to comment ID: 7325426216201584640
+2025-05-20 11:15:27,178 - replier - INFO - Posting reply to Unipile: https://api13.unipile.com:14364/api/v1/posts/7329093900210438144/comments
+2025-05-20 11:15:29,985 - replier - INFO - Replied to comment ID: 7330436351466639360

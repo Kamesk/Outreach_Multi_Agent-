@@ -1,0 +1,34 @@
+project_name: "LinkedIn AutoPilot"
+description: "Automated commenter"
+
+headers:
+  Authorization: "Bearer ${ACCESS_TOKEN}"
+  X-Restli-Protocol-Version: "2.0.0"
+  Content-Type: "application/json"
+  LinkedIn-Version: "202503"
+  accept: "application/json"
+  X-API-KEY: "${X_API_KEY}"
+  AC_ID: "zbyAHH8gRN-N1ROy-apFnA"
+
+params:
+  q: "author"
+  count: 1
+  start: 0
+
+openai:
+  model: "gpt-4"
+  temperature: 0.6
+  max_tokens: 200
+  top_p: 1.0
+  frequency_penalty: 0.0
+  presence_penalty: 0.0
+
+linkedin:
+  post_visibility: "PUBLIC"
+  include_image: true
+  approval_required: true 
+
+
+unipile:
+  base_url: "https://api12.unipile.com:14208"
+  api_key: "${X_API_KEY}"

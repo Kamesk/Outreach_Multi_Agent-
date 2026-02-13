@@ -1,0 +1,28 @@
+2025-04-25 10:14:22,029 - llm - WARNING - LLM attempt 1 failed: 'response_prompt'
+2025-04-25 10:14:24,044 - llm - WARNING - LLM attempt 2 failed: 'response_prompt'
+2025-04-25 10:14:26,060 - llm - WARNING - LLM attempt 3 failed: 'response_prompt'
+2025-04-25 10:14:28,076 - llm - ERROR - All retries failed.
+2025-04-25 10:14:31,408 - llm - WARNING - LLM attempt 1 failed: 'response_prompt'
+2025-04-25 10:14:33,419 - llm - WARNING - LLM attempt 2 failed: 'response_prompt'
+2025-04-25 10:14:35,424 - llm - WARNING - LLM attempt 3 failed: 'response_prompt'
+2025-04-25 10:14:37,441 - llm - ERROR - All retries failed.
+2025-04-25 10:14:41,081 - llm - WARNING - LLM attempt 1 failed: 'response_prompt'
+2025-04-25 10:14:43,092 - llm - WARNING - LLM attempt 2 failed: 'response_prompt'
+2025-04-25 10:14:45,103 - llm - WARNING - LLM attempt 3 failed: 'response_prompt'
+2025-04-25 10:14:47,114 - llm - ERROR - All retries failed.
+2025-04-25 10:14:50,769 - llm - WARNING - LLM attempt 1 failed: 'response_prompt'
+2025-04-25 10:14:52,778 - llm - WARNING - LLM attempt 2 failed: 'response_prompt'
+2025-04-25 10:14:54,788 - llm - WARNING - LLM attempt 3 failed: 'response_prompt'
+2025-04-25 10:14:56,797 - llm - ERROR - All retries failed.
+2025-05-03 14:00:20,009 - llm - WARNING - LLM attempt 1 failed: 'reply_to_comment'
+2025-05-03 14:00:22,013 - llm - WARNING - LLM attempt 2 failed: 'reply_to_comment'
+2025-05-03 14:00:24,026 - llm - WARNING - LLM attempt 3 failed: 'reply_to_comment'
+2025-05-03 14:00:26,037 - llm - ERROR - All retries failed.
+2025-05-03 14:12:05,975 - llm - WARNING - LLM attempt 1 failed: 'reply_to_comment'
+2025-05-03 14:12:07,977 - llm - WARNING - LLM attempt 2 failed: 'reply_to_comment'
+2025-05-03 14:12:09,992 - llm - WARNING - LLM attempt 3 failed: 'reply_to_comment'
+2025-05-03 14:12:12,001 - llm - ERROR - All retries failed.
+2025-05-03 14:22:05,575 - llm - WARNING - LLM attempt 1 failed: 'reply_to_comment'
+2025-05-03 14:22:07,576 - llm - WARNING - LLM attempt 2 failed: 'reply_to_comment'
+2025-05-03 14:22:09,587 - llm - WARNING - LLM attempt 3 failed: 'reply_to_comment'
+2025-05-03 14:22:11,601 - llm - ERROR - All retries failed.

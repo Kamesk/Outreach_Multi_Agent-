@@ -1,0 +1,2 @@
+2025-05-26 11:50:58,148 - dynamodb - ERROR - Error inserting comment: An error occurred (ValidationException) when calling the GetItem operation: The provided key element does not match the schema
+2025-05-26 11:59:56,436 - dynamodb - INFO - Inserted comment: 7330436351466639360

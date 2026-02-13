@@ -1,0 +1,90 @@
+2025-04-24 15:14:30,854 - fetcher - ERROR - Failed to fetch posts: 404 - {"status":404,"code":"RESOURCE_NOT_FOUND","message":"No virtual resource found"}
+2025-04-24 15:26:16,368 - fetcher - INFO - Fetched post URN: urn:li:share:7320395269324296192
+2025-04-24 15:26:17,518 - fetcher - ERROR - Failed to fetch comments: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-25 09:38:53,310 - fetcher - INFO - Fetched post URN: urn:li:share:7320395269324296192
+2025-04-25 09:38:55,222 - fetcher - ERROR - Failed to fetch comments: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-25 10:05:34,103 - fetcher - INFO - Fetched post URN: urn:li:share:7320395269324296192
+2025-04-25 10:05:35,251 - fetcher - ERROR - Failed to fetch comments: 400 - {"status":400,"code":"ILLEGAL_ARGUMENT","message":"Syntax exception in path variables"}
+2025-04-25 10:14:16,346 - fetcher - INFO - Fetched post URN: urn:li:share:7320395269324296192
+2025-04-25 10:14:17,443 - fetcher - INFO - Fetched 4 comment(s).
+2025-04-25 12:17:48,285 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 12:17:50,161 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-25 13:25:50,413 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 13:25:51,486 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-25 13:28:38,851 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 13:28:39,848 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-25 13:38:36,419 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 13:38:37,474 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-25 13:40:22,544 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 13:40:23,621 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-25 15:33:17,040 - fetcher - INFO - Fetched post URN: urn:li:share:7321400618684735488
+2025-04-25 15:33:18,115 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-26 10:22:13,084 - fetcher - INFO - Fetched post URN: urn:li:share:7321488852366364672
+2025-04-26 10:22:14,647 - fetcher - INFO - Fetched 0 comment(s).
+2025-04-26 10:22:55,033 - fetcher - INFO - Fetched post URN: urn:li:share:7321488852366364672
+2025-04-26 10:22:56,572 - fetcher - INFO - Fetched 0 comment(s).
+2025-04-26 10:24:50,576 - fetcher - INFO - Fetched post URN: urn:li:share:7321488852366364672
+2025-04-26 10:24:51,733 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-26 10:32:24,604 - fetcher - INFO - Fetched post URN: urn:li:share:7321488852366364672
+2025-04-26 10:32:25,947 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-29 12:31:46,264 - fetcher - INFO - Fetched post URN: urn:li:share:7322877061990121473
+2025-04-29 12:31:47,666 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-29 12:37:12,446 - fetcher - INFO - Fetched post URN: urn:li:share:7322877061990121473
+2025-04-29 12:37:13,863 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-29 13:00:15,062 - fetcher - INFO - Fetched post URN: urn:li:share:7322877061990121473
+2025-04-29 13:00:16,222 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-29 13:05:27,371 - fetcher - INFO - Fetched post URN: urn:li:share:7322877061990121473
+2025-04-29 13:05:28,497 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-29 13:06:52,466 - fetcher - INFO - Fetched post URN: urn:li:share:7322877061990121473
+2025-04-29 13:06:53,829 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-30 11:35:54,672 - fetcher - INFO - Fetched post URN: urn:li:share:7323225530705526784
+2025-04-30 11:35:56,273 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-30 11:39:48,524 - fetcher - INFO - Fetched post URN: urn:li:share:7323225530705526784
+2025-04-30 11:39:49,728 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-30 11:42:21,256 - fetcher - INFO - Fetched post URN: urn:li:share:7323225530705526784
+2025-04-30 11:42:22,319 - fetcher - INFO - Fetched 1 comment(s).
+2025-04-30 16:57:46,676 - fetcher - INFO - Fetched post URN: urn:li:share:7323305432024842240
+2025-04-30 16:57:48,212 - fetcher - INFO - Fetched 0 comment(s).
+2025-04-30 16:58:48,627 - fetcher - INFO - Fetched post URN: urn:li:share:7323305432024842240
+2025-04-30 16:58:49,875 - fetcher - INFO - Fetched 0 comment(s).
+2025-04-30 17:00:27,721 - fetcher - INFO - Fetched post URN: urn:li:share:7323305432024842240
+2025-04-30 17:00:28,906 - fetcher - INFO - Fetched 2 comment(s).
+2025-05-03 14:00:13,198 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 14:00:14,363 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 14:12:00,208 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 14:12:01,526 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 14:22:00,135 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 14:22:01,301 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 15:19:18,799 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 15:19:20,273 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 15:30:03,000 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 15:30:04,431 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 15:34:45,188 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 15:34:46,343 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 16:43:56,252 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 16:43:57,327 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 17:39:51,594 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 17:39:52,858 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 17:43:29,277 - fetcher - ERROR - Failed to fetch posts: 429 - {"status":429,"serviceErrorCode":101,"code":"TOO_MANY_REQUESTS","message":"Resource level throttle APPLICATION_AND_MEMBER DAY limit for calls to this resource is reached."}
+2025-05-03 17:48:29,188 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 17:48:30,469 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 17:50:22,363 - fetcher - INFO - Fetched post URN: urn:li:share:7324346894086737920
+2025-05-03 17:50:23,430 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-03 17:56:59,693 - fetcher - INFO - Fetched post URN: urn:li:share:7324408453588824064
+2025-05-03 17:57:00,667 - fetcher - INFO - Fetched 2 comment(s).
+2025-05-03 17:59:03,753 - fetcher - INFO - Fetched post URN: urn:li:share:7324408453588824064
+2025-05-03 17:59:05,044 - fetcher - INFO - Fetched 2 comment(s).
+2025-05-06 13:18:56,384 - fetcher - INFO - Fetched post URN: urn:li:share:7325425403240599552
+2025-05-06 13:18:57,528 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-06 13:22:27,916 - fetcher - INFO - Fetched post URN: urn:li:share:7325425403240599552
+2025-05-06 13:22:29,082 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-20 10:58:57,736 - fetcher - INFO - Fetched post URN: urn:li:share:7329093899078066176
+2025-05-20 10:58:58,911 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-20 11:07:19,022 - fetcher - INFO - Fetched post URN: urn:li:share:7329093899078066176
+2025-05-20 11:07:20,213 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-20 11:15:16,215 - fetcher - INFO - Fetched post URN: urn:li:share:7329093899078066176
+2025-05-20 11:15:17,350 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-26 11:50:54,938 - fetcher - INFO - Fetched post URN: urn:li:share:7329093899078066176
+2025-05-26 11:50:56,144 - fetcher - INFO - Fetched 1 comment(s).
+2025-05-26 11:59:52,880 - fetcher - INFO - Fetched post URN: urn:li:share:7329093899078066176
+2025-05-26 11:59:54,279 - fetcher - INFO - Fetched 1 comment(s).
