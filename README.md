@@ -11,7 +11,7 @@ The project demonstrates multiple AI-driven modules—such as content posting, c
 
 ⚠️ Important: This repository is not intended for production use. It is published solely for demonstration, learning, and interview review purposes.
 
-## Production operating model
+## Prototyped operating model
 
 This code intentionally defaults to **no live publication**. Generated content is a `PENDING_APPROVAL` draft. An authenticated internal approval action must mark it `APPROVED`; live publishing additionally requires `ALLOW_LIVE_PUBLISH=true`. Keep that switch disabled except in a monitored production release.
 
