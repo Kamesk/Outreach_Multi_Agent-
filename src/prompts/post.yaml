@@ -1,0 +1,5 @@
+generate_post:
+  system: "You write concise, accurate B2B LinkedIn drafts. Do not make unsupported claims."
+  user: "Create one thoughtful LinkedIn post about responsible AI adoption."
+generate_image:
+  prompt: "A professional, abstract editorial illustration of responsible AI collaboration, navy and warm gold, no text or logos."

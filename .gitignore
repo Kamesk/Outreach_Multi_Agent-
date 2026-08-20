@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+logs/
+credentials/
+*.pem
+*.key
+*.csv
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
